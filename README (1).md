@@ -34,7 +34,7 @@ The visualization of the neural network is done using Graphviz (use the runcheck
 Clone the repo and the submodules
 
 ```
-git clone --recurse-submodules -----------------------------
+git clone --recurse-submodules (https://github.com/anuragsinghiitg/snakeai)
 ```
 
 Install the requirements
